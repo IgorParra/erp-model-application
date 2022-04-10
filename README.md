@@ -1,3 +1,7 @@
+# erp-model-application
+
+This repo is used to storage the frontend code from erp application used as conclusion class work from some disciplines from Information system's of Universidade Positivo
+
 # DevWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
