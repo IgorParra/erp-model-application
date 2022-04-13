@@ -1,0 +1,23 @@
+.header {
+  background-color: pink;
+  height: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 1rem;
+
+  nav {
+    ul {
+      display: flex;
+      flex-direction: row;
+
+      gap: 1rem;
+
+      li {
+        cursor: pointer;
+      }
+    }
+  }
+}
